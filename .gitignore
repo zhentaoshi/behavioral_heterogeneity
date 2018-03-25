@@ -9,6 +9,7 @@
 ## R
 *.RHistory
 *_cache*
+*.Rdata
 
 ## matlab
 *.asv

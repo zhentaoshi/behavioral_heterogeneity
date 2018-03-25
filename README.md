@@ -19,3 +19,8 @@ The following are the functions used in `master2_estimation.R`
 * `CUE.R`: XMM
 * `EL.R`: EXLM
 * `func5.R`: collection of all the functions for the estimation procedures.
+
+## Implementation
+
+1. `R --vanilla <master1_data_generation.R> data.out &`
+2. `R --vanilla <master2_estimation.R> est.out &`
