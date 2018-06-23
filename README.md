@@ -1,12 +1,12 @@
 # Structural Estimation of Behavioral Heterogeneity
 
-Zhentao Shi and Huanhuan Zheng, "Structural Estimation of Behavioral Heterogeneity," *Journal of Applied Econometrics*, forthcoming
+Zhentao Shi and Huanhuan Zheng (2018), "[Structural Estimation of Behavioral Heterogeneity](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2640)," *Journal of Applied Econometrics*  [[arxiv](https://arxiv.org/abs/1802.03735)]
 
 We provide code of XMM and ELXM that replicates the empirical results.
 
 ## Hosts
 
-* A static copy is hosted at Journal of Applied Econometrics [Data Archive](http://qed.econ.queensu.ca/jae/).
+* A static copy is hosted at *Journal of Applied Econometrics* [Data Archive](http://qed.econ.queensu.ca/jae/).
 * A dynamic copy is hosted at [Github](https://github.com/zhentaoshi/behavioral_heterogeneity) with Version 1.0 exactly the same as the copy in JAE Data Archive. The authors will maintain it for future update.  
 
 ## Data
