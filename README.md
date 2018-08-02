@@ -1,6 +1,6 @@
 # Structural Estimation of Behavioral Heterogeneity
 
-Zhentao Shi and Huanhuan Zheng (2018), "[Structural Estimation of Behavioral Heterogeneity](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2640)," *Journal of Applied Econometrics*  [[arxiv](https://arxiv.org/abs/1802.03735)]
+Zhentao Shi and Huanhuan Zheng (2018), "[Structural Estimation of Behavioral Heterogeneity](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2640)," *Journal of Applied Econometrics*, 33(5), 690-707 [[arxiv](https://arxiv.org/abs/1802.03735)]
 
 We provide code of XMM and ELXM that replicates the empirical results.
 
